@@ -35,4 +35,4 @@ Fokus utamanya meminimalkan kesalahan False Negative dan False Positive, karena 
   	Model mampu memprediksi 96% dari total transaksi secara akurat
 
 2. Faktor yang paling mempengaruhi klasifikasi lancar/tidak lancar pembayaran pinjaman adalah Term (jangka waktu peminjaman)
-3. Jika model ini diterapkan SBA setidaknya dapat meningkatkan economic benefit sebesar $ 10.720.399 
+3. Jika model ini diterapkan SBA setidaknya dapat meningkatkan economic benefit sebesar $ 9.273.763 
